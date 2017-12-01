@@ -1,2 +1,2 @@
-# help-to-buy
-Companies that have benefited from the Scottish Government Help-to-buy scheme
+# Help To Buy
+This csv file includes data on the Scottish Government's Help To Buy Subsidy scheme. It shows which companies have benefited from the subsidised loans the most, and estimates how much the Scottish Government has invested in homes built by each firm. The estimates are based on the average figures given by the Scottish Government. More information on this dataset can be found at theferret.scot
